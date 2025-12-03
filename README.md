@@ -38,8 +38,8 @@ pip install Pillow
 ---
 
 ### Anggota Kelompok
-Muhammad Fathur Rizqi (D1041221020)
-Jimi Alviandi Mahendra (D1041221009)
-Dina Ferjiah Tulenan (D1041201042)
+* Muhammad Fathur Rizqi (D1041221020)
+* Jimi Alviandi Mahendra (D1041221009)
+* Dina Ferjiah Tulenan (D1041201042)
 
 ---
